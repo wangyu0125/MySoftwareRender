@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\MyGit\MySoftwareRender\MySoftwareRender\src\main.cpp(8,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\MyGit\MySoftwareRender\MySoftwareRender\src\main.cpp(9,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\MyGit\MySoftwareRender\MySoftwareRender\src\main.cpp(18,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  MySoftwareRender.vcxproj -> D:\MyGit\MySoftwareRender\x64\Debug\MySoftwareRender.exe
